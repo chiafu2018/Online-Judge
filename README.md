@@ -1,4 +1,6 @@
+# Online Judge
 This is my final project of Intro. Network Programming
+Read Online Judge.pdf to know more details
 
 Compile Command:
 Server:  gcc -I lib -g -O2 -D_REENTRANT -Wall server.c -o server.out libunp.a -lpthread
